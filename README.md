@@ -11,7 +11,7 @@ Simple WhatsApp Bot
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/Dora-emond/dora01
-> cd wabot-aq
+> cd dora01
 > npm install
 ```
 
