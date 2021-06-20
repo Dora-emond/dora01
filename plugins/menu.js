@@ -8,7 +8,7 @@ let tags = {
   'sticker': 'Sticker',
   'kerang': 'Kerang Ajaib',
   'quotes': 'Quotes',
-  'admi': 'Admin',
+  'admi': 'in',
   'group': 'Group',
   'premium': 'Premium',
   'internet': 'Internet',
@@ -40,8 +40,14 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
+| hello my name is dora, aku kesepian
+| dan marilah berteman denganku, ku humble
+| dan toxic,,, dan hobiku ngebot, jhaaa 🙂😜
 │ Terimakasih buat sahabat dora emond 
-│ dan kawand kawand Ψ(≧ω≦)Ψ
+│ dan kawand kawand  🌎🚀　°　　🌓　•　　.°•　　🚀 ✯　　
+|　　★　*ⒹⓄⓇⒶ✯　　°　　　　　°·　🚀　
+|🚀　　　•　°★　•
+|▁▂▃▄▅▆▇▇▆▅▄▃▂
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
