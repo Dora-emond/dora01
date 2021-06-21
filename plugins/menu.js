@@ -40,18 +40,19 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
- |
- | Hello my name is dora, aku kesepian
- | dan hampa :(marilah berteman denganku, 
- | ku humble dan toxic,,, dan hobiku ngebot,
- | jhaaa 🙂😜
- │ Terimakasih buat sahabat dora emond 
- │ dan kawand kawand 
- | 🌎🚀　°🌓　•　.°•　　🚀 ✯　　
- | ★　*ⒹⓄⓇⒶ✯　°°·　🚀　
- | .🚀•°★　•
- | ▁▂▃▄▅▆▇▇▆▅▄▃▂
- ╰────
+│Hello my name is dora, aku     
+│ kesepian dan hampa : 
+│ marilah berteman 
+│ denganku, ku humble dan   
+│ toxic,,, dan hobiku ngebot, 
+│  jhaaa  🙂😜. Terimakasih   
+│ buat sahabat dora emond 
+│ dan kawand kawand Ψ(≧ω ≦)Ψ
+│ 🌎🚀　°🌓　•　.°•　　🚀 
+│ ✯★　*ⒹⓄⓇⒶ✯　°°·🚀　
+│ 🚀•°★　•
+│ ▁▂▃▄▅▆▇▇▆▅▄▃▂
+╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
   body: '│ • %cmd %islimit %isPremium',
