@@ -8,7 +8,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'AbilGanss'
+  'https://api.xteam.xyz': 'Doraemondnobita123'
 }
 
 // Sticker WM
