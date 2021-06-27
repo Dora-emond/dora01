@@ -1,0 +1,7 @@
+{
+  "name": "dora01",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot"]
+}
